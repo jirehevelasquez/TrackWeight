@@ -21,7 +21,7 @@ from IMU import MPU6050
 # Use the laptop hotspot values that worked in your WiFi test.
 
 WIFI_NAME = "MONGOTHEGINGERB 1812"
-WIFI_PASSWORD = "88g=8Z80"
+WIFI_PASSWORD = "add here"
 
 
 # -----------------------------
@@ -30,7 +30,7 @@ WIFI_PASSWORD = "88g=8Z80"
 # Replace SUPABASE_KEY with your real Supabase anon public key.
 
 SUPABASE_URL = "https://rwreglitqcnlfwaugngf.supabase.co/rest/v1/workout_events"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ3cmVnbGl0cWNubGZ3YXVnbmdmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzkzNzExNjgsImV4cCI6MjA5NDk0NzE2OH0.KHk_FyBY-5HynEN4SmTlhqKhE8gFZeb9ct_6QVHy14E"
+SUPABASE_KEY = "add here accordinly"
 
 # Identification values from your friend's code
 MACHINE_NAME = "benchpress"
