@@ -20,12 +20,12 @@ from IMU import MPU6050
 # -----------------------------
 
 WIFI_NAME = "MONGOTHEGINGERB 1812"
-WIFI_PASSWORD = "88g=8Z80"
+WIFI_PASSWORD = "add here"
 
 # Use the same server URL that worked in wifi_test.py.
 # Example for laptop hotspot:
 # SERVER_URL = "http://192.168.137.1:5000/workout"
-SERVER_URL = "http://192.168.137.1:5000/workout"
+SERVER_URL = "http://add here"
 
 
 # -----------------------------
