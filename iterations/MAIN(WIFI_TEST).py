@@ -12,7 +12,7 @@ import urequests
 # -----------------------------
 
 WIFI_NAME = "MONGOTHEFINFERB 1812"
-WIFI_PASSWORD = "88G=8Z80"
+WIFI_PASSWORD = "ADD here"
 
 
 # -----------------------------
@@ -24,7 +24,7 @@ WIFI_PASSWORD = "88G=8Z80"
 #
 # The ESP32 must send to the /workout route.
 
-SERVER_URL = "http://10.0.0.30:5000/workout"
+SERVER_URL = "http://add here"
 
 
 # -----------------------------
